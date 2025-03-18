@@ -57,12 +57,12 @@ router.get('/', async (req, res) => {
 
                let MALVIN_KING_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ᴍᴀʟᴠɪɴ-ᴍᴅ SESSION IS 
+𝗗𝗨𝗟𝗔𝗡𝗧𝗛𝗔 𝗠𝗗SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+❶ || Creator = 𖥘⚡ 𝗗𝗨𝗟𝗔𝗡𝗧𝗛𝗔 𝗼𝘀𝗵𝗮𝗱𝗮ɴɢ ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
